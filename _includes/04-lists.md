@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# Here is a list
+
+- Golf
+- Learning software tools
+- Sunshine
+- Family time
